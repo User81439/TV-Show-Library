@@ -1,0 +1,98 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"title": "Test",
+	"description": "A Description",
+	"type": "object",
+	
+	"name1": { 
+		"text": "name 1",
+		"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img0.png",
+			"key1": {
+				"text": "name 1 key 1",
+				"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img1.png",
+					"value1": {
+						"text": "name 1 key 1 value 1",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value2": {
+						"text": "name 1 key 1 value 2",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value3": {
+						"text": "name 1 key 1 value 3",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value4": {
+						"text": "name 1 key 1 value 4",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+			},
+			
+			"key2": {
+				"text": "name 1 key 2",
+				"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img1.png",
+					"value1": {
+						"text": "name 1 key 2 value 1",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value2": {
+						"text": "name 1 key 2 value 2",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value3": {
+						"text": "name 1 key 2 value 3",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value4": {
+						"text": "name 1 key 2 value 4",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					}
+			}
+	},
+
+	"name2": { 
+		"text": "name 2",
+		"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img0.png",
+			"key1": {
+				"text": "name 2 key 1",
+				"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img1.png",
+					"value1": {
+						"text": "name 2 key 1 value 1",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value2": {
+						"text": "name 2 key 1 value 2",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value3": {
+						"text": "name 2 key 1 value 3",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value4": {
+						"text": "name 2 key 1 value 4",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					}
+			},
+			
+			"key2": {
+				"text": "name 2 key 2",
+				"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img1.png",
+					"value1": {
+						"text": "name 2 key 2 value 1",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value2": {
+						"text": "name 2 key 2 value 2",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value3": {
+						"text": "name 2 key 2 value 3",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					},
+					"value4": {
+						"text": "name 2 key 2 value 4",
+						"location": "C:\\Users\\Hamish Scott\\Documents\\Test\\img2.png"
+					}
+			}
+	}
+}

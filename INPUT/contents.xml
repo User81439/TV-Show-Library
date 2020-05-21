@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<body>	
+		<level0>
+			<name>Level 0</name>
+			<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+			
+			<level1>
+			
+				<name>Level1-0</name>
+				<location>C:\Users\Hamish Scott\Documents\Test\img2.png</location>
+				
+					<level2>
+						<name>Level2-0</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+						<name>Level2-1</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img2.png</location>
+						<name>Level2-2</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+					</level2>
+					
+				<name>Level1-1</name>
+				<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+				
+					<level2>
+						<name>Level2-0</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+						<name>Level2-1</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img2.png</location>
+						<name>Level2-2</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+					</level2>
+					
+				<name>Level1-2</name>
+				<location>C:\Users\Hamish Scott\Documents\Test\img2.png</location>
+				
+					<level2>
+						<name>Level2-0</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+						<name>Level2-1</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img2.png</location>
+						<name>Level2-2</name>
+						<location>C:\Users\Hamish Scott\Documents\Test\img.png</location>
+					</level2>				
+				
+			</level1>
+			
+		</level0>
+		
+	</body>
+</xml>

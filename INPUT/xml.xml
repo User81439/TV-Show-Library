@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<body>	
+	
+		<name1 text="name 1" location="..\..\INPUT\img0.png">
+		
+			<key1 text="name 1 key 1" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 1 key 1 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 1 key 1 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 1 key 1 value 3" location="..\..\INPUT\img2.png"/>
+				<value4 text="name 1 key 1 value 4" location="..\..\INPUT\img2.png"/>
+			
+			</key1>
+			
+			<key2 text="name 1 key 2" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 1 key 2 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 1 key 2 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 1 key 2 value 3" location="..\..\INPUT\img2.png"/>
+				<value4 text="name 1 key 2 value 4" location="..\..\INPUT\img2.png"/>
+				<value5 text="name 1 key 2 value 5" location="..\..\INPUT\img2.png"/>
+			
+			</key2>
+			
+		</name1>
+		
+		<name2 text="name 2" location="..\..\INPUT\img0.png">
+		
+			<key1 text="name 2 key 1" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 2 key 1 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 2 key 1 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 2 key 1 value 3" location="..\..\INPUT\img2.png"/>
+				<value4 text="name 2 key 1 value 4" location="..\..\INPUT\img2.png"/>
+				<value5 text="name 2 key 1 value 5" location="..\..\INPUT\img2.png"/>
+			
+			</key1>
+			
+			<key2 text="name 2 key 2" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 2 key 2 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 2 key 2 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 2 key 2 value 3" location="..\..\INPUT\img2.png"/>
+			
+			</key2>
+			
+			<key3 text="name 2 key 3" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 2 key 3 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 2 key 3 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 2 key 3 value 3" location="..\..\INPUT\img2.png"/>
+				<value4 text="name 2 key 3 value 4" location="..\..\INPUT\img2.png"/>
+				<value5 text="name 2 key 3 value 5" location="..\..\INPUT\img2.png"/>
+			
+			</key3>
+			
+		</name2>
+
+		<name3 text="name 3" location="..\..\INPUT\img0.png">
+		
+			<key1 text="name 3 key 1" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 3 key 1 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 3 key 1 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 3 key 1 value 3" location="..\..\INPUT\img2.png"/>
+				<value4 text="name 3 key 1 value 4" location="..\..\INPUT\img2.png"/>
+				<value5 text="name 3 key 1 value 5" location="..\..\INPUT\img2.png"/>
+			
+			</key1>
+			
+			<key2 text="name 3 key 2" location="..\..\INPUT\img1.png">
+			
+				<value1 text="name 3 key 2 value 1" location="..\..\INPUT\img2.png"/>
+				<value2 text="name 3 key 2 value 2" location="..\..\INPUT\img2.png"/>
+				<value3 text="name 3 key 2 value 3" location="..\..\INPUT\img2.png"/>
+				<value4 text="name 3 key 2 value 4" location="..\..\INPUT\img2.png"/>
+			
+			</key2>
+			
+		</name3>
+		
+	</body>
+</xml>
